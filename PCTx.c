@@ -5,6 +5,8 @@
  *
  * - Open connection 
  *
+ * MIAO
+ *
  * ret = PCTx('open');
  *
  * ret: 1 for connection enstabilished, 0 otherwise
